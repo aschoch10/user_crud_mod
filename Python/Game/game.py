@@ -1,5 +1,8 @@
-from classes.ninja import Ninja
-from classes.pirate import Pirate
+import ninja
+import pirate
+
+from ninja import Ninja
+from pirate import Pirate
 
 michelangelo = Ninja("Michelangelo")
 jack_sparrow = Pirate("Jack Sparrow")
