@@ -5,3 +5,11 @@ h1 {
     margin-right: 20%;
     margin-left: 20%;
 }
+
+.round{
+    border-bottom-left-radius: 3.5px;
+    border-bottom-right-radius:3.5px;
+    border-top-right-radius: 3.5px;
+    border-top-left-radius: 3.5px;
+    border: 2px solid green;
+}
